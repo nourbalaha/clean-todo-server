@@ -1,0 +1,9 @@
+*.log
+
+/.idea/
+/.vscode/launch.json
+
+.env*
+
+/mongo
+/data
