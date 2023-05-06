@@ -3,6 +3,8 @@ module github.com/nourbalaha/clean-todo-server
 go 1.19
 
 require (
+	github.com/joho/godotenv v1.5.1
+	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/labstack/echo/v4 v4.10.2
 	go.mongodb.org/mongo-driver v1.11.6
 )
